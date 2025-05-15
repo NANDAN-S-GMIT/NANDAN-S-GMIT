@@ -55,6 +55,21 @@
 </p>
 
 ---
+## 🏆 Certifications  
+- NPTEL: Programming in Java  
+- Udemy: ChatGPT Prompt Engineering  
+- Google Cloud: Introduction to Generative AI, Prompt Design in Vertex AI  
+- GenAIus 2024 Hackathon Participation  
+
+---
+
+## 📚 Projects  
+- **Full Stack Web Development Internship** at Abeyaantrix Edusoft  
+- **Blood Bank Management System**  
+- **Image-Based Thyroid Disorder Identification**  
+- **Student Result Management System**  
+- **React Project Hub (Calculator, To-Do List, Color Picker, and more)**  
+- **Advanced Tkinter Image Filter App with OpenCV**
 
 ## 📈 GitHub Stats
 
