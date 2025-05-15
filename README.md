@@ -1,6 +1,8 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Nandan S</h1>
-<h3 align="center">A passionate Full Stack Web and Java Developer | AI Enthusiast | Open Source Contributor</h3>
+# 👋 Hi, I'm Nandan S!
+
+## 👨‍💻 About Me  
+I'm a passionate **Full Stack Web Developer** and **Java Developer** currently pursuing my **B.E. in Computer Science Engineering**. I specialize in building dynamic, scalable, and efficient web applications. I enjoy exploring new technologies, solving real-world problems through code, and crafting clean, professional designs.
 
 <!-- Profile Views & Connect -->
 <p align="center">
@@ -21,6 +23,22 @@
 - 📫 Reach me at: **your.email@example.com**
 
 ---
+
+
+## 🛠️ Skills & Technologies  
+
+**Languages:**  
+`Java` `Python` `JavaScript` `HTML` `CSS` `PHP`  
+
+**Front-End:**  
+`React` `Bootstrap` `AOS Animations` `Wix` `WordPress`  
+
+**Back-End:**  
+`Node.js` `Django` `MySQL`  
+
+**Tools & Frameworks:**  
+`Spring Boot (learning)` `Tkinter` `OpenCV` `Figma` `Adobe Photoshop`
+
 
 ## 🛠️ Tech Stack
 
