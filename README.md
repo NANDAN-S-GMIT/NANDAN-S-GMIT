@@ -59,11 +59,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NandanS&show_icons=true&theme=radical" alt="Nandan's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NANDAN-S-GMIT&show_icons=true&theme=radical" alt="Nandan's GitHub stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NandanS&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NANDAN-S-GMIT&theme=radical" alt="GitHub Streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandanS&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANDAN-S-GMIT&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
