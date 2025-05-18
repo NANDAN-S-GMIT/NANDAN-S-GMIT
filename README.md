@@ -8,8 +8,8 @@ I'm a passionate **Full Stack Web Developer** and **Java Developer** currently p
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NandanS&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/NandanS"><img src="https://img.shields.io/github/followers/NandanS?label=Follow&style=social" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/nandansiddappa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/NANDAN-S-GMIT/"><img src="https://img.shields.io/github/followers/NandanS?label=Follow&style=social" alt="GitHub"/></a>
 </p>
 
 ---
@@ -28,16 +28,16 @@ I'm a passionate **Full Stack Web Developer** and **Java Developer** currently p
 ## 🛠️ Skills & Technologies  
 
 **Languages:**  
-`Java` `Python` `JavaScript` `HTML` `CSS` `PHP`  
+`Java` `Python` `JavaScript` `PHP`  
 
 **Front-End:**  
-`React` `Bootstrap` `AOS Animations` `Wix` `WordPress`  
+`React` `HTML` `CSS` `Bootstrap` `AOS Animations` `Wix` `WordPress`  
 
 **Back-End:**  
 `Node.js` `Django` `MySQL`  
 
 **Tools & Frameworks:**  
-`Spring Boot (learning)` `Tkinter` `OpenCV` `Figma` `Adobe Photoshop`
+`Spring Boot (learning)` `Tkinter` `OpenCV`  `Adobe Photoshop`
 
 
 ## 🛠️ Tech Stack
@@ -93,9 +93,9 @@ I'm a passionate **Full Stack Web Developer** and **Java Developer** currently p
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NANDAN-S-GMIT&show_icons=true&theme=radical" alt="Nandan's GitHub stats"/>
-  <br/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NANDAN-S-GMIT&theme=radical" alt="GitHub Streak"/>
-  <br/>
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANDAN-S-GMIT&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
