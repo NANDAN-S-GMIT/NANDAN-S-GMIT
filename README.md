@@ -4,6 +4,8 @@
 ## 👨‍💻 About Me  
 I'm a passionate **Full Stack Web Developer** and **Java Developer** currently pursuing my **B.E. in Computer Science Engineering**. I specialize in building dynamic, scalable, and efficient web applications. I enjoy exploring new technologies, solving real-world problems through code, and crafting clean, professional designs.
 
+---
+
 <!-- Profile Views & Connect -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NandanS&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -39,6 +41,7 @@ I'm a passionate **Full Stack Web Developer** and **Java Developer** currently p
 **Tools & Frameworks:**  
 `Spring Boot (learning)` `Tkinter` `OpenCV`  `Adobe Photoshop`
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -89,6 +92,8 @@ I'm a passionate **Full Stack Web Developer** and **Java Developer** currently p
 - **React Project Hub (Calculator, To-Do List, Color Picker, and more)**  
 - **Advanced Tkinter Image Filter App with OpenCV**
 
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -108,3 +113,5 @@ I'm a passionate **Full Stack Web Developer** and **Java Developer** currently p
   <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/NandanS"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+---
