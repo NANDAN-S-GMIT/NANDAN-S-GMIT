@@ -20,7 +20,7 @@ I'm a passionate **Full Stack Web Developer** and **Java Developer** currently p
 - 🌱 Learning **Advanced Java, AI Projects, Cloud (AWS/GCP), Docker & Kubernetes**
 - 👯 I’m looking to collaborate on **Open Source, AI & Full Stack Projects**
 - 💬 Ask me about **Java, React, Python, Full Stack Development**
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **benz.nandan.s@gmail.com**
 
 ---
 
