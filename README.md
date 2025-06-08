@@ -55,7 +55,7 @@ I'm a passionate **Full Stack Web Developer** and **Java Developer** currently p
 ## 🛠️ Tech Stack
 
 <p align="left" > 
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="border-radius: 50%; width: 150px; height: 150px;"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="border-radius: 50%; "/>
   
   
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="border-radius: 50%; width: 150px; height: 150px;"/>
