@@ -54,7 +54,7 @@ I'm a passionate **Full Stack Web Developer** and **Java Developer** currently p
 
 ## 🛠️ Tech Stack
 <p align="left">
-  <img src="YOUR_IMAGE_URL" alt="Nandan's Profile Picture" style="border-radius: 50%; width: 120px; height: 120px; margin-right: 20px;" />
+  
 
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
