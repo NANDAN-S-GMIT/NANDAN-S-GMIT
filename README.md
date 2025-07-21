@@ -48,7 +48,7 @@ I'm a passionate **Full Stack Web Developer** and **Java Developer** currently p
 `Spring Boot (learning)` `Tkinter` `OpenCV`  `Adobe Photoshop` `TensorFlow`
 
 **Other Skills:**
-`Adobe Photoshop` `Canva` `MS Office` `Google Docs` `Netlify` `Vercel` `GitHub Pages`
+`Canva` `MS Office` `Google Docs` `Netlify` `Vercel` `GitHub Pages`
 
 ---
 
