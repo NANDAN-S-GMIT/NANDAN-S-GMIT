@@ -4,6 +4,8 @@
 ## 👨‍💻 About Me  
 I'm a passionate **Full Stack Web Developer** and **Java Developer** currently pursuing my **B.E. in Computer Science Engineering**. I specialize in building dynamic, scalable, and efficient web applications. I enjoy exploring new technologies, solving real-world problems through code, and crafting clean, professional designs.
 
+https://camo.githubusercontent.com/ae3cdfe2ed2e3cdedee4dade1d07623831fb5afa726a292a6ac99a8ed2a9a778/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f6465267765696768743d3630302673697a653d3238266475726174696f6e3d333030302670617573653d3130303026636f6c6f723d3030443946462663656e7465723d74727565267643656e7465723d74727565266d756c74696c696e653d747275652677696474683d363030266865696768743d313030266c696e65733d57656c636f6d652b746f2b6d792b4469676974616c2b556e697665727365
+
 ---
 
 <!-- Profile Views & Connect -->
