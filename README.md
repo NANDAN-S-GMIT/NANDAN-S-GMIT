@@ -81,16 +81,37 @@ I'm a passionate **Full Stack Web Developer** and **Java Developer** currently p
 
 ---
 
-## 📚 Projects  
+## 🚀 Projects Showcase
 
-- **Blood Bank Management System**  
-- **Image-Based Thyroid Disorder Identification**  
-- **Student Result Management System**  
-- **React Project Hub (Calculator, To-Do List, Color Picker, and more)**  
-- **Advanced Tkinter Image Filter App with OpenCV**
-- **Full Stack Java Development Internship** at Abeyaantrix Edusoft  
+- **📄 Resume Analyzer & Skill Recommender** – **Python, HTML, CSS, JavaScript** *(In Progress)*  
+  An intelligent tool that extracts skills from uploaded resumes and suggests additional in-demand skills based on role-specific analysis.
+
+- **🎓 NextGen LearnHub** – **React, Spring Boot, MySQL**  
+  A feature-rich full-stack e-learning platform offering free certifications, interactive video sessions, user enrollment, and skill-focused learning tracks.
+
+- **🧠 Image-Based Thyroid Disorder Detection** – **HTML, CSS, JavaScript, Python (CNN Model)**  
+  A medical diagnosis system powered by a custom-trained Convolutional Neural Network (CNN) model to detect thyroid disorders from user-uploaded images.
+
+- **🖼️ Imagery – Image Filter App** – **React (Vite)**  
+  A high-performance image editor where users can upload, preview, and apply stunning filters with real-time rendering and fast download capabilities.
+
+- **😃 Emotion Detector Web App** – **Flask, HTML, CSS, JavaScript**  
+  A web-based NLP application that analyzes user-provided text input and predicts emotional states using machine learning techniques.
+
+- **🩸 Blood Bank Management System** – **HTML, CSS, JavaScript, PHP, MySQL**  
+  A responsive and dynamic web platform for managing blood donation queries and enabling admin-side communication and database operations.
+
+- **📊 Student Result Management System** – **HTML, CSS, JavaScript, PHP, MySQL**  
+  A user-friendly portal that allows administrators to manage and publish student academic results, accessible by students in real-time.
+
+- **📝 Quiz App** – **JavaScript, HTML, CSS**  
+  A dynamic and interactive quiz application featuring multiple-choice questions, real-time scoring, countdown timers, and responsive design.
 
 ---
+
+## 🌟 Explore More Projects
+Click on individual repositories for detailed documentation, setup guides, and live demos (if available).  
+> 💻 Built with dedication, creativity, and code by **Nandan S** ✨
 
 ## 📈 GitHub Stats
 
