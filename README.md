@@ -78,6 +78,7 @@ I'm a passionate **Full Stack Web Developer** and **Java Developer** currently p
 - **Programming in Java** - [Programming in Java (NPTEL)](https://nptel.ac.in/courses/106/105/106105191) 
   In-depth course on Java covering core concepts, object-oriented principles, data structures, multithreading, and file handling.  
   **Skills**: Java, OOP, Data Structures, Multithreading, File Handling
+  🏅 [View Certificate »](https://archive.nptel.ac.in/content/noc/NOC24/SEM1/Ecertificates/106/noc24-cs43/Course/NPTEL24CS43S105410032930600350.pdf)
 
 ---
 
