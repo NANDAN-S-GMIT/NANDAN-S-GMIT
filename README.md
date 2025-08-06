@@ -72,12 +72,69 @@ I'm a passionate **Full Stack Web Developer** and **Java Developer** currently p
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </p>
 
+## 🏅 Certifications
+
+### 📘 NPTEL
+- **Programming in Java**  
+  In-depth course on Java covering core concepts, object-oriented principles, data structures, multithreading, and file handling.  
+  **Skills**: Java, OOP, Data Structures, Multithreading, File Handling
+
 ---
-## 🏆 Certifications  
-- NPTEL: Programming in Java  
-- Udemy: ChatGPT Prompt Engineering  
-- Google Cloud: Introduction to Generative AI, Prompt Design in Vertex AI  
-- GenAIus 2024 Hackathon Participation  
+
+### 🧠 Google
+- **Introduction to Generative AI**  
+  Covered foundational AI concepts, generative models, and their real-world applications.  
+  **Skills**: Generative AI, AI Basics, Deep Learning
+
+- **Prompt Design in Vertex AI**  
+  Advanced course on crafting effective prompts for AI models on Vertex AI.  
+  **Skills**: Prompt Engineering, Vertex AI, Advanced AI
+
+- **Level 3: GenAIus Registries**  
+  Focused on the use and management of GenAIus Registries in scalable AI environments.  
+  **Skills**: GenAIus, AI Registries, Cloud AI
+
+- **GEN AI Study Gam 2024**  
+  Study program exploring machine learning, deep learning, NLP, and computer vision.  
+  **Skills**: Machine Learning, Neural Networks, NLP, Computer Vision
+
+---
+
+### 🧑‍🏫 Udemy
+- **ChatGPT Prompt Engineering**  
+  Learned how to design effective prompts for ChatGPT to generate accurate, context-aware responses.  
+  **Skills**: ChatGPT, Prompt Engineering, Conversational AI
+
+- **Java Programming Masterclass - Beginner to Master**  
+  Mastered Java from scratch to advanced topics including JDBC, file handling, and real-world app development.  
+  **Skills**: Java, OOP, Data Structures, JDBC, File Handling
+
+---
+
+## 💼 Experience
+
+### 🧾 SRI SAI GAS LINKS – HP GAS Agency  
+**Role**: Customer Support Representative  
+Managed customer inquiries, account setups, billing issues, and service changes with a focus on communication and client satisfaction.  
+**Skills**: Customer Service, Account Management, Problem Solving, Communication
+
+---
+
+### 💻 Full Stack Web Development Intern  
+Hands-on internship covering frontend and backend development, including live deployment experience.  
+**Tech Stack**: React, Node.js, MongoDB, Express, DevOps
+
+---
+
+### 🐍 Python Programming Intern  
+Real-world training in Python with a focus on automation, data handling, and web scraping projects.  
+**Skills**: Python, Automation, Web Scraping, Data Handling
+
+---
+
+### ☕ Full Stack Java Development Intern  
+Complete internship experience in building Java-based full stack apps with frontend/backend integration.  
+**Tech Stack**: Java, Spring Boot, React JS, MySQL, REST APIs
 
 ---
 
