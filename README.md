@@ -75,7 +75,7 @@ I'm a passionate **Full Stack Web Developer** and **Java Developer** currently p
 ## 🏅 Certifications
 
 ### 📘 NPTEL
-- **Programming in Java**  
+- **Programming in Java** - [Programming in Java (NPTEL)](https://nptel.ac.in/courses/106/105/106105191) 
   In-depth course on Java covering core concepts, object-oriented principles, data structures, multithreading, and file handling.  
   **Skills**: Java, OOP, Data Structures, Multithreading, File Handling
 
@@ -113,28 +113,22 @@ I'm a passionate **Full Stack Web Developer** and **Java Developer** currently p
 
 ## 💼 Experience
 
-### 🧾 SRI SAI GAS LINKS – HP GAS Agency  
-**Role**: Customer Support Representative  
-Managed customer inquiries, account setups, billing issues, and service changes with a focus on communication and client satisfaction.  
-**Skills**: Customer Service, Account Management, Problem Solving, Communication
-
----
+### ☕ Full Stack Java Development Intern  
+Complete internship experience in building Java-based full stack apps with frontend/backend integration.  
+**Tech Stack**: Java, Spring Boot, React JS, MySQL, REST APIs
 
 ### 💻 Full Stack Web Development Intern  
 Hands-on internship covering frontend and backend development, including live deployment experience.  
 **Tech Stack**: React, Node.js, MongoDB, Express, DevOps
 
----
-
 ### 🐍 Python Programming Intern  
 Real-world training in Python with a focus on automation, data handling, and web scraping projects.  
 **Skills**: Python, Automation, Web Scraping, Data Handling
 
----
-
-### ☕ Full Stack Java Development Intern  
-Complete internship experience in building Java-based full stack apps with frontend/backend integration.  
-**Tech Stack**: Java, Spring Boot, React JS, MySQL, REST APIs
+### 🧾 SRI SAI GAS LINKS – HP GAS Agency  
+**Role**: Customer Support Representative  
+Managed customer inquiries, account setups, billing issues, and service changes with a focus on communication and client satisfaction.  
+**Skills**: Customer Service, Account Management, Problem Solving, Communication
 
 ---
 
