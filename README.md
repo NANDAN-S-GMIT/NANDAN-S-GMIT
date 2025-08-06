@@ -75,38 +75,49 @@ I'm a passionate **Full Stack Web Developer** and **Java Developer** currently p
 ## 🏅 Certifications
 
 ### 📘 NPTEL
-- **Programming in Java** - [Programming in Java (NPTEL)](https://nptel.ac.in/courses/106/105/106105191) 
+- **Programming in Java** - 🏅 [View Certificate](https://archive.nptel.ac.in/content/noc/NOC24/SEM1/Ecertificates/106/noc24-cs43/Course/NPTEL24CS43S105410032930600350.pdf)
   In-depth course on Java covering core concepts, object-oriented principles, data structures, multithreading, and file handling.  
   **Skills**: Java, OOP, Data Structures, Multithreading, File Handling
-  🏅 [View Certificate »](https://archive.nptel.ac.in/content/noc/NOC24/SEM1/Ecertificates/106/noc24-cs43/Course/NPTEL24CS43S105410032930600350.pdf)
-
+  
 ---
 
 ### 🧠 Google
-- **Introduction to Generative AI**  
+- **Introduction to Generative AI** - 🏅 [View Certificate »](https://www.cloudskillsboost.google/public_profiles/a9dae0c4-2b1b-462d-ab9e-58f51dc0fdc9/badges/8853952)
   Covered foundational AI concepts, generative models, and their real-world applications.  
   **Skills**: Generative AI, AI Basics, Deep Learning
 
-- **Prompt Design in Vertex AI**  
+- **Prompt Design in Vertex AI** - 🏅 [View Certificate »](https://www.cloudskillsboost.google/public_profiles/a9dae0c4-2b1b-462d-ab9e-58f51dc0fdc9/badges/8861216)  
   Advanced course on crafting effective prompts for AI models on Vertex AI.  
   **Skills**: Prompt Engineering, Vertex AI, Advanced AI
 
-- **Level 3: GenAIus Registries**  
+- **Level 3: GenAIus Registries** - 🏅 [View Certificate »](https://www.cloudskillsboost.google/public_profiles/a9dae0c4-2b1b-462d-ab9e-58f51dc0fdc9/badges/8853762)  
   Focused on the use and management of GenAIus Registries in scalable AI environments.  
   **Skills**: GenAIus, AI Registries, Cloud AI
 
-- **GEN AI Study Gam 2024**  
+- **GEN AI Study Gam 2024** - 🏅 [View Certificate »](https://raw.githubusercontent.com/NANDAN-S-GMIT/images/main/GENAI.png)  
   Study program exploring machine learning, deep learning, NLP, and computer vision.  
   **Skills**: Machine Learning, Neural Networks, NLP, Computer Vision
+
+- **Build Real World AI Applications with Gemini and Imagen** - 🏅 [View Certificate »](https://www.cloudskillsboost.google/public_profiles/a9dae0c4-2b1b-462d-ab9e-58f51dc0fdc9/badges/15113544)  
+Hands-on course on developing real-world AI apps using Google Gemini and Imagen models.
+Skills: Gemini AI, Imagen, AI App Development
+
+- **Professional Machine Learning Engineer Study Guide** - 🏅 [View Certificate »](https://www.cloudskillsboost.google/public_profiles/a9dae0c4-2b1b-462d-ab9e-58f51dc0fdc9/badges/14949457)  
+Study guide covering the key areas for Google's ML Engineer certification.
+Skills: ML Engineering, TensorFlow, AI Ethics, Model Optimization
+
+- **Develop GenAI Apps with Gemini and Streamlit** - 🏅 [View Certificate »](https://www.cloudskillsboost.google/public_profiles/a9dae0c4-2b1b-462d-ab9e-58f51dc0fdc9/badges/8865951)  
+Course on building GenAI-powered web apps using Gemini APIs with Streamlit.
+Skills: Gemini AI, Streamlit, App Deployment, LLM Integration
 
 ---
 
 ### 🧑‍🏫 Udemy
-- **ChatGPT Prompt Engineering**  
+- **ChatGPT Prompt Engineering** - 🏅 [View Certificate »](https://ude.my/UC-d8a3535d-3718-40dd-b197-346d02ac4de3)  
   Learned how to design effective prompts for ChatGPT to generate accurate, context-aware responses.  
   **Skills**: ChatGPT, Prompt Engineering, Conversational AI
 
-- **Java Programming Masterclass - Beginner to Master**  
+- **Java Programming Masterclass - Beginner to Master** - 🏅 [View Certificate »](https://ude.my/UC-fb8be7b2-f74b-478a-94ef-977147aaa23e)  
   Mastered Java from scratch to advanced topics including JDBC, file handling, and real-world app development.  
   **Skills**: Java, OOP, Data Structures, JDBC, File Handling
 
@@ -114,19 +125,19 @@ I'm a passionate **Full Stack Web Developer** and **Java Developer** currently p
 
 ## 💼 Experience
 
-### ☕ Full Stack Java Development Intern  
+### ☕ Full Stack Java Development Intern - 🏅 [View Certificate »](https://raw.githubusercontent.com/NANDAN-S-GMIT/images/main/JAVAFULLSTACK.png)  
 Complete internship experience in building Java-based full stack apps with frontend/backend integration.  
 **Tech Stack**: Java, Spring Boot, React JS, MySQL, REST APIs
 
-### 💻 Full Stack Web Development Intern  
+### 💻 Full Stack Web Development Intern - 🏅 [View Certificate »](https://raw.githubusercontent.com/NANDAN-S-GMIT/images/main/FULLSTACK.png)  
 Hands-on internship covering frontend and backend development, including live deployment experience.  
 **Tech Stack**: React, Node.js, MongoDB, Express, DevOps
 
-### 🐍 Python Programming Intern  
+### 🐍 Python Programming Intern - 🏅 [View Certificate »](https://raw.githubusercontent.com/NANDAN-S-GMIT/images/main/PYTHON.png)  
 Real-world training in Python with a focus on automation, data handling, and web scraping projects.  
 **Skills**: Python, Automation, Web Scraping, Data Handling
 
-### 🧾 SRI SAI GAS LINKS – HP GAS Agency  
+### 🧾 SRI SAI GAS LINKS – HP GAS Agency - 🏅 [View Certificate »](https://raw.githubusercontent.com/NANDAN-S-GMIT/images/main/HPGAS.png)  
 **Role**: Customer Support Representative  
 Managed customer inquiries, account setups, billing issues, and service changes with a focus on communication and client satisfaction.  
 **Skills**: Customer Service, Account Management, Problem Solving, Communication
