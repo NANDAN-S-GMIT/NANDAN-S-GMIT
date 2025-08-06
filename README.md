@@ -99,16 +99,16 @@ I'm a passionate **Full Stack Web Developer** and **Java Developer** currently p
   **Skills**: Machine Learning, Neural Networks, NLP, Computer Vision
 
 - **Build Real World AI Applications with Gemini and Imagen** - 🏅 [View Certificate »](https://www.cloudskillsboost.google/public_profiles/a9dae0c4-2b1b-462d-ab9e-58f51dc0fdc9/badges/15113544)  
-Hands-on course on developing real-world AI apps using Google Gemini and Imagen models.
-Skills: Gemini AI, Imagen, AI App Development
+  Hands-on course on developing real-world AI apps using Google Gemini and Imagen models.
+  **Skills**: Gemini AI, Imagen, AI App Development
 
 - **Professional Machine Learning Engineer Study Guide** - 🏅 [View Certificate »](https://www.cloudskillsboost.google/public_profiles/a9dae0c4-2b1b-462d-ab9e-58f51dc0fdc9/badges/14949457)  
-Study guide covering the key areas for Google's ML Engineer certification.
-Skills: ML Engineering, TensorFlow, AI Ethics, Model Optimization
+  Study guide covering the key areas for Google's ML Engineer certification.
+  **Skills**: ML Engineering, TensorFlow, AI Ethics, Model Optimization
 
 - **Develop GenAI Apps with Gemini and Streamlit** - 🏅 [View Certificate »](https://www.cloudskillsboost.google/public_profiles/a9dae0c4-2b1b-462d-ab9e-58f51dc0fdc9/badges/8865951)  
-Course on building GenAI-powered web apps using Gemini APIs with Streamlit.
-Skills: Gemini AI, Streamlit, App Deployment, LLM Integration
+  Course on building GenAI-powered web apps using Gemini APIs with Streamlit.
+  **Skills**: Gemini AI, Streamlit, App Deployment, LLM Integration
 
 ---
 
