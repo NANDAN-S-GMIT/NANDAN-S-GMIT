@@ -123,28 +123,27 @@ I'm a passionate **Full Stack Web Developer** and **Java Developer** currently p
 
 ---
 
----
-
 ### 🧑‍💻 IBM (via Coursera)
-- **IBM Full Stack Software Developer Professional Certificate** – 🏅 [View Certificate »](https://lnkd.in/et7pq-Jq)  
-  This comprehensive program, spanning **15 courses**, provided in-depth, hands-on training across the full software development lifecycle — from front-end and back-end development to cloud-native deployment and AI integration.  
+- **IBM Full Stack Software Developer Professional Certificate** – 🏅 [View Certificate »](https://www.credly.com/badges/8e74100d-a435-4441-8873-d21463342ae1/public_url)
+- This comprehensive program, spanning **15 courses**, provided in-depth, hands-on training across the full software development lifecycle — from front-end and back-end development to cloud-native deployment and AI integration. 🏅 [View Certificate »](https://coursera.org/share/7cd7eb74b88e1fff43f0542832ebb271)
+   
 
   **Courses Covered**:
-  1. Introduction to Software Engineering  
-  2. Introduction to Cloud Computing  
-  3. Introduction to HTML, CSS & JavaScript  
-  4. Getting Started with Git & GitHub  
-  5. Developing Front-End Apps with React  
-  6. Developing Back-End Apps with Node.js & Express  
-  7. Python for Data Science, AI & Development  
-  8. Developing AI Applications with Python & Flask  
-  9. Django Application Development with SQL & Databases  
-  10. Introduction to Containers with Docker, Kubernetes & OpenShift  
-  11. Application Development using Microservices & Serverless  
-  12. Full Stack Application Development Capstone Project  
-  13. Full Stack Software Developer Assessment  
-  14. Generative AI: Elevate Your Software Development Career  
-  15. Software Developer Career Guide & Interview Preparation  
+  1. Introduction to Software Engineering – 🏅 [View Certificate »](https://coursera.org/share/717d9bdc69855f77c58ce8b5d9c0773c)
+  2. Introduction to Cloud Computing – 🏅 [View Certificate »](https://coursera.org/share/6206ec62c848372d98515189c2df12b6)   
+  3. Introduction to HTML, CSS & JavaScript – 🏅 [View Certificate »](https://coursera.org/share/ca5c09b106686e975619793c8a0a69f4)  
+  4. Getting Started with Git & GitHub – 🏅 [View Certificate »](https://coursera.org/share/c013e05552a1e9154edcce27ecacff79)  
+  5. Developing Front-End Apps with React – 🏅 [View Certificate »](https://coursera.org/share/80d6936d9b459926e8bcf5e36a40924e)  
+  6. Developing Back-End Apps with Node.js & Express – 🏅 [View Certificate »](https://coursera.org/share/01bdd0245f3821d8539de57c5f593d0b)  
+  7. Python for Data Science, AI & Development – 🏅 [View Certificate »](https://coursera.org/share/ba44c4a61b3c9f89e9d965d399a0d965)  
+  8. Developing AI Applications with Python & Flask – 🏅 [View Certificate »](https://coursera.org/share/09f347de1068d1467082f164e1cb2560)  
+  9. Django Application Development with SQL & Databases – 🏅 [View Certificate »](https://coursera.org/share/e764fd2a0e2fdadb4b4dadcefcf380cc)  
+  10. Introduction to Containers with Docker, Kubernetes & OpenShift – 🏅 [View Certificate »](https://coursera.org/share/3b05ff1eb8b8944a372765cf8120a4d9)  
+  11. Application Development using Microservices & Serverless – 🏅 [View Certificate »](https://coursera.org/share/a090460d9b286d745164ef5f3a93b0ac)  
+  12. Full Stack Application Development Capstone Project – 🏅 [View Certificate »](https://www.coursera.org/account/accomplishments/verify/WEI9L252GSZN?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)  
+  13. Full Stack Software Developer Assessment – 🏅 [View Certificate »](https://coursera.org/share/87c7fbc6c47c5761c88a97d3907c9e98)  
+  14. Generative AI: Elevate Your Software Development Career – 🏅 [View Certificate »](https://www.coursera.org/account/accomplishments/verify/3C9F7UWUP1EL?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)  
+  15. Software Developer Career Guide & Interview Preparation – 🏅 [View Certificate »](https://www.coursera.org/account/accomplishments/verify/N6TH9PG54BPT?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)  
 
   **Hands-on Experience Gained**:  
   💻 Building modern front-end and back-end applications  
@@ -155,7 +154,7 @@ I'm a passionate **Full Stack Web Developer** and **Java Developer** currently p
 ---
 
 ### ☁️ Oracle (via Coursera)
-- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** – 🏅 [View Credential »](https://lnkd.in/dn5_EYUP)  
+- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** – 🏅 [View Credential »](https://catalog-education.oracle.com/ords/certview/sharebadge?id=5F6E7DA5806A7F7997E2D7EEB37D40C474B77DDA2C73BD01B08969DD97DC62CC)  
   This certification broadened my expertise in **AI fundamentals and Oracle Cloud AI services**, focusing on responsible AI and enterprise-ready solutions.  
 
   **Key Learnings**:
