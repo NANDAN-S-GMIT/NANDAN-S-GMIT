@@ -123,7 +123,7 @@ I'm a passionate **Full Stack Web Developer** and **Java Developer** currently p
 
 ---
 
-### 🧑‍💻 IBM (via Coursera)
+### 🧑‍💻 IBM Full Stack Software Developer Professional Certificate (via Coursera)
 - **IBM Full Stack Software Developer Professional Certificate** – 🏅 [View Certificate »](https://www.credly.com/badges/8e74100d-a435-4441-8873-d21463342ae1/public_url)
 - This comprehensive program, spanning **15 courses**, provided in-depth, hands-on training across the full software development lifecycle — from front-end and back-end development to cloud-native deployment and AI integration. 🏅 [View Certificate »](https://coursera.org/share/7cd7eb74b88e1fff43f0542832ebb271)
    
@@ -153,7 +153,7 @@ I'm a passionate **Full Stack Web Developer** and **Java Developer** currently p
 
 ---
 
-### ☁️ Oracle (via Coursera)
+### ☁️ Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate (via Oracle University)
 - **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** – 🏅 [View Credential »](https://catalog-education.oracle.com/ords/certview/sharebadge?id=5F6E7DA5806A7F7997E2D7EEB37D40C474B77DDA2C73BD01B08969DD97DC62CC)  
   This certification broadened my expertise in **AI fundamentals and Oracle Cloud AI services**, focusing on responsible AI and enterprise-ready solutions.  
 
