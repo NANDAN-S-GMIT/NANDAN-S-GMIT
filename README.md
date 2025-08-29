@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 # 👋 Hi, I'm Nandan S!
 
-## 👨‍💻 About Me  
+## 👨‍💻 About Me.  
 I'm a passionate **Full Stack Web Developer** and **Java Developer** currently pursuing my **B.E. in Computer Science Engineering**. I specialize in building dynamic, scalable, and efficient web applications. I enjoy exploring new technologies, solving real-world problems through code, and crafting clean, professional designs.
 
 
