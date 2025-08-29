@@ -123,6 +123,56 @@ I'm a passionate **Full Stack Web Developer** and **Java Developer** currently p
 
 ---
 
+---
+
+### 🧑‍💻 IBM (via Coursera)
+- **IBM Full Stack Software Developer Professional Certificate** – 🏅 [View Certificate »](https://lnkd.in/et7pq-Jq)  
+  This comprehensive program, spanning **15 courses**, provided in-depth, hands-on training across the full software development lifecycle — from front-end and back-end development to cloud-native deployment and AI integration.  
+
+  **Courses Covered**:
+  1. Introduction to Software Engineering  
+  2. Introduction to Cloud Computing  
+  3. Introduction to HTML, CSS & JavaScript  
+  4. Getting Started with Git & GitHub  
+  5. Developing Front-End Apps with React  
+  6. Developing Back-End Apps with Node.js & Express  
+  7. Python for Data Science, AI & Development  
+  8. Developing AI Applications with Python & Flask  
+  9. Django Application Development with SQL & Databases  
+  10. Introduction to Containers with Docker, Kubernetes & OpenShift  
+  11. Application Development using Microservices & Serverless  
+  12. Full Stack Application Development Capstone Project  
+  13. Full Stack Software Developer Assessment  
+  14. Generative AI: Elevate Your Software Development Career  
+  15. Software Developer Career Guide & Interview Preparation  
+
+  **Hands-on Experience Gained**:  
+  💻 Building modern front-end and back-end applications  
+  ⚙️ Working with databases and APIs  
+  ☁️ Deploying applications using Docker, Kubernetes & Cloud  
+  🤖 Integrating AI into real-world software solutions  
+
+---
+
+### ☁️ Oracle (via Coursera)
+- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** – 🏅 [View Credential »](https://lnkd.in/dn5_EYUP)  
+  This certification broadened my expertise in **AI fundamentals and Oracle Cloud AI services**, focusing on responsible AI and enterprise-ready solutions.  
+
+  **Key Learnings**:
+  - AI fundamentals and Responsible AI practices  
+  - Oracle Cloud Infrastructure’s AI services and capabilities  
+  - Building secure, scalable, and enterprise-ready AI-driven solutions  
+
+  **Preparation Journey**:
+  📌 6+ hours of expert-led training with Oracle University  
+  📌 100% completion of labs, knowledge checks, and practice exams  
+  📌 Successfully passed the official certification exam *(1Z0-1122-25)*  
+
+  **Outcome**: Gained valuable insights into applying AI responsibly to solve real-world business challenges, driving innovation with confidence in the cloud and AI space.  
+
+---
+
+
 ## 💼 Experience
 
 ### ☕ Full Stack Java Development Intern - 🏅 [View Certificate »](https://raw.githubusercontent.com/NANDAN-S-GMIT/images/main/JAVAFULLSTACK.png)  
