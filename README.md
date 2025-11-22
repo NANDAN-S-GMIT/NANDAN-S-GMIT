@@ -2,7 +2,9 @@
 # 👋 Hi, I'm Nandan S!
 
 ## 👨‍💻 About Me.  
-I'm a passionate **Full Stack Web Developer** and **Java Developer** currently pursuing my **B.E. in Computer Science Engineering**. I specialize in building dynamic, scalable, and efficient web applications. I enjoy exploring new technologies, solving real-world problems through code, and crafting clean, professional designs.
+I’m a passionate **Full Stack Web Developer**, **Java Developer**, and an aspiring **Cyber Security Analyst** recently Graduated **B.E. in Computer Science Engineering**.  
+I love building dynamic, scalable applications and securing them using modern security practices. I enjoy exploring new technologies, working with AI, understanding cyber threats, and solving real-world problems through clean and efficient code.
+
 
 
 ---
@@ -19,10 +21,11 @@ I'm a passionate **Full Stack Web Developer** and **Java Developer** currently p
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **Full Stack Java Development Projects**
-- 🌱 Learning **Advanced Java, AI Projects, Cloud (AWS/GCP), Docker & Kubernetes**
-- 👯 I’m looking to collaborate on **Open Source, AI & Full Stack Projects**
-- 💬 Ask me about **Java, React, Python, Full Stack Development**
+- 🔭 Currently working on **Full Stack Java** and **Cyber Security** projects  
+- 🛡️ Gaining hands-on skills in **Splunk, Threat Detection, MITRE ATT&CK, and Network Security**  
+- 🌱 Learning **Advanced Java, AI/ML, Cloud (AWS/GCP), Docker, Kubernetes & Security Fundamentals**  
+- 👯 Open to collaborating on **Full Stack, Cyber Security, AI, and Open Source** projects  
+- 💬 Ask me about **Java, React, Python, Full Stack Development, Cyber Security Basics, SOC Tools**  
 - 📫 Reach me at: **benz.nandan.s@gmail.com**
 
 ---
