@@ -319,7 +319,9 @@ Managed customer inquiries, account setups, billing issues, and service changes 
 **Skills & Technologies:** Web Security, OWASP Top 10, Vulnerability Assessment, HTTP/HTTPS, Python, JavaScript, Security Testing
 
 ---
-
+- **🤖 ChatEquity AI** – **Python, AI/ML, JavaScript** 
+  AI-powered application that analyzes user input and generates intelligent responses using Api concepts.
+  
 - **📄 Resume Analyzer & Skill Recommender** – **Python, HTML, CSS, JavaScript**  
   An intelligent tool that extracts skills from uploaded resumes and suggests additional in-demand skills based on role-specific analysis.
 
