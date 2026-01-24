@@ -2,10 +2,11 @@
 # 👋 Hi, I'm Nandan S!
 
 ## 👨‍💻 About Me.  
-I’m a passionate **Full Stack Web Developer**, **Java Developer**, and an aspiring **Cyber Security Analyst** recently Graduated **B.E. in Computer Science Engineering**.  
-I love building dynamic, scalable applications and securing them using modern security practices. I enjoy exploring new technologies, working with AI, understanding cyber threats, and solving real-world problems through clean and efficient code.
+I’m a **Computer Science Engineering graduate (2025)** with a strong foundation in **Full Stack Web Development** and a growing specialization as a **Cyber Security / SOC Analyst**.
 
+Since **August 2025**, I’ve been undergoing structured **Cyber Security Analyst (SOC L1)** training, gaining hands-on experience with SIEM monitoring, alert triage, threat intelligence, and incident investigation workflows. I enjoy building scalable applications and securing them using real-world security practices, SOC methodologies, and threat frameworks.
 
+I’m passionate about **cyber defense**, **threat detection**, **SOC operations**, and **building security-focused tools** that solve practical problems.
 
 ---
 
@@ -13,7 +14,7 @@ I love building dynamic, scalable applications and securing them using modern se
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NandanS&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="mailto:benz.nandan.s@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://linkedin.com/in/nandansiddappa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/nandan-s-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/NANDAN-S-GMIT/"><img src="https://img.shields.io/github/followers/NandanS?label=Follow&style=social" alt="GitHub"/></a>
 </p>
 
@@ -21,17 +22,45 @@ I love building dynamic, scalable applications and securing them using modern se
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working on **Full Stack Java** and **Cyber Security** projects  
-- 🛡️ Gaining hands-on skills in **Splunk, Threat Detection, MITRE ATT&CK, and Network Security**  
-- 🌱 Learning **Advanced Java, AI/ML, Cloud (AWS/GCP), Docker, Kubernetes & Security Fundamentals**  
-- 👯 Open to collaborating on **Full Stack, Cyber Security, AI, and Open Source** projects  
-- 💬 Ask me about **Java, React, Python, Full Stack Development, Cyber Security Basics, SOC Tools**  
+- 🎓 **B.E. in Computer Science Engineering (2025)**
+- 🛡️ **Cyber Security Analyst Trainee (SOC L1)** — *Aug 2025 – Present*
+- 🔭 Gaining hands-on skills in **Splunk, Threat Detection, MITRE ATT&CK, and Network Security**  
+- 💻 **Full Stack Developer | Java | React | Django**
+- 🔍 Focused on **SIEM, Threat Intelligence, MITRE ATT&CK**
+- 🌱 Learning **Advanced SOC Operations, Cloud Security & Automation**
+- 💬 Ask me about **Java, React, Python, Full Stack Development, Cyber Security, SOC Tools**  
 - 📫 Reach me at: **benz.nandan.s@gmail.com**
-
+- 👯 Open to collaborating on **Full Stack, Cyber Security, AI, and Open Source** projects 
+ 
 ---
 
 
-## 🛠️ Skills & Technologies  
+## 🛠️ Skills & Technologies 
+
+## 🛡️ Cyber Security & SOC Skills
+
+- SIEM Monitoring & Alert Triage (L1)
+- Security Event & Log Analysis
+- False Positive vs True Positive Identification
+- IOC Validation & Threat Intelligence Enrichment
+- Phishing Email Analysis
+- MITRE ATT&CK Mapping & Cyber Kill Chain
+- Incident Documentation & Escalation (SOC SOPs)
+- Basic Network Traffic & Endpoint Analysis
+
+## 🔐 Security Tools & Technologies
+
+- **SIEM:** Splunk ES, Google Chronicle (SecOps)
+- **EDR:** CrowdStrike Falcon
+- **Email Security:** Microsoft 365 Defender
+- **Threat Intelligence & OSINT:** VirusTotal, AbuseIPDB, Cisco Talos, AlienVault OTX, CyberChef
+- **URL Analysis:** URLScan.io
+- **IAM:** Microsoft Entra ID (Azure AD)
+- **Ticketing:** Jira, ServiceNow
+- **Network Analysis:** Wireshark
+- **Frameworks:** MITRE ATT&CK, Cyber Kill Chain
+
+## MY Skills
 
 **Languages:**  
 `Java` `Python` `JavaScript` `PHP`  
@@ -76,6 +105,34 @@ I love building dynamic, scalable applications and securing them using modern se
 </p>
 
 ## 🏅 Certifications
+
+## 🏅 Cyber Security Certifications
+
+### 🛡️ Splunk
+- **SOC Essentials: Investigating with Splunk ES 8.x** – 🏅 [View Certificate](https://drive.google.com/file/d/14meqGP-wBIOKA1u90jfNPG3unSACx5vY/view)  
+  Hands-on SOC investigation training using Splunk Enterprise Security, covering alert triage, notable event analysis, dashboards, correlation searches, and escalation workflows.  
+  **Skills**: Splunk ES, SIEM Monitoring, Alert Triage, Log Analysis, Incident Escalation
+
+### 🛡️ AttackIQ Academy
+- **Foundations of Operationalizing MITRE ATT&CK v13** – 🏅 [View Certificate](https://www.credly.com/badges/2e164a4f-956e-437f-bbd5-4f463760b456)  
+  Focused on applying the MITRE ATT&CK framework in real-world SOC environments, including mapping adversary tactics and techniques, improving detection visibility, and supporting structured incident investigations.  
+  **Skills**: MITRE ATT&CK, Adversary TTP Mapping, Threat Detection, SOC Analysis, Incident Investigation
+
+### 🛡️ arcX
+- **Cyber Threat Intelligence 101** – 🏅 [View Certificate](https://arcx.io/verify-certificate?id=f44132167c2d875b7241d8c880f26e2572a63848)  
+  Introduced core threat intelligence concepts including IOC lifecycle, intelligence sources, threat actor analysis, and applying CTI to SOC decision-making.  
+  **Skills**: Threat Intelligence, IOC Analysis, OSINT, Threat Actor Profiling, SOC Workflows
+
+### 🛡️ Basel Institute on Governance
+- **Open-source Intelligence (OSINT)** – 🏅 [View Certificate](https://learn.baselgovernance.org/mod/customcert/verify_certificate.php?code=OchgThXjDC)  
+  Practical exposure to OSINT techniques for collecting, validating, and analyzing publicly available information to support cyber investigations and threat analysis.  
+  **Skills**: OSINT, Information Gathering, Digital Investigation, Threat Research, SOC Enrichment
+
+### 🛡️ Udemy
+- **Mastering Cybersecurity: Essential Knowledge and Techniques** – 🏅 [View Certificate](https://www.udemy.com/certificate/UC-76521cd7-99bf-403c-a532-5ae17ac74d45/)  
+  Covered cybersecurity fundamentals such as threat types, attack vectors, defensive controls, and practical security techniques used to protect systems and networks.  
+  **Skills**: Cybersecurity Fundamentals, Network Security, Threat Analysis, Security Controls
+
 
 ### 📘 NPTEL
 - **Programming in Java** - 🏅 [View Certificate](https://archive.nptel.ac.in/content/noc/NOC24/SEM1/Ecertificates/106/noc24-cs43/Course/NPTEL24CS43S105410032930600350.pdf)
@@ -197,6 +254,34 @@ Managed customer inquiries, account setups, billing issues, and service changes 
 ---
 
 ## 🚀 Projects Showcase
+
+## 🚀 Cyber Projects
+
+### 🔐 Unified Threat Intelligence Dashboard
+*A SOC-focused threat intelligence enrichment platform*
+
+- Built a unified dashboard to analyze **IPs, URLs, domains, and file hashes** for SOC investigations.
+- Integrated multiple OSINT platforms including **VirusTotal, AbuseIPDB, Cisco Talos, URLScan.io, and AlienVault OTX**.
+- Streamlined IOC enrichment by providing a single interface for faster analysis.
+- Designed to simulate **real-world SOC analyst workflows** and threat validation processes.
+
+**Skills & Technologies:** Threat Intelligence, OSINT, IOC Analysis, SOC Workflows, MITRE ATT&CK, React, JavaScript, API Integration  
+🔗[**Live Demo:**](https://unified-threat-intelligence.netlify.app/)
+
+---
+
+### 🌐 Web Application Vulnerability Scanner
+*A web-based security assessment and learning tool*
+
+- Designed and developed a web vulnerability scanner to identify **XSS, SQL Injection (SQLi), and CSRF** issues.
+- Implemented basic crawling and payload testing to analyze application responses.
+- Classified vulnerabilities based on severity, aligned with **OWASP Top 10 (2021)**.
+- Generated clear findings with remediation guidance, following ethical security practices.
+
+**Skills & Technologies:** Web Security, OWASP Top 10, Vulnerability Assessment, HTTP/HTTPS, Python, JavaScript, Security Testing
+
+
+
 
 - **📄 Resume Analyzer & Skill Recommender** – **Python, HTML, CSS, JavaScript** *(In Progress)*  
   An intelligent tool that extracts skills from uploaded resumes and suggests additional in-demand skills based on role-specific analysis.
