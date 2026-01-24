@@ -113,9 +113,11 @@ I’m passionate about **cyber defense**, **threat detection**, **SOC operations
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p?
 
-  ## 🛠️ Cyber Tools and Technologies 
+---
 
-  <p align="center">
+## 🛠️ Cyber Tools and Technologies 
+
+<p align="center">
   <!-- Cyber Security / SOC -->
   <img src="https://img.shields.io/badge/Splunk%20ES-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
   <img src="https://img.shields.io/badge/IBM%20QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
