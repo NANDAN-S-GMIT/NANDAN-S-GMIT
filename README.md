@@ -48,6 +48,8 @@ I’m passionate about **cyber defense**, **threat detection**, **SOC operations
 - Incident Documentation & Escalation (SOC SOPs)
 - Basic Network Traffic & Endpoint Analysis
 
+---
+
 ## 🔐 Security Tools & Technologies
 
 - **SIEM:** Splunk ES, Google Chronicle (SecOps)
@@ -59,6 +61,8 @@ I’m passionate about **cyber defense**, **threat detection**, **SOC operations
 - **Ticketing:** Jira, ServiceNow
 - **Network Analysis:** Wireshark
 - **Frameworks:** MITRE ATT&CK, Cyber Kill Chain
+
+---
 
 ## MY Skills
 
@@ -133,6 +137,7 @@ I’m passionate about **cyber defense**, **threat detection**, **SOC operations
   Covered cybersecurity fundamentals such as threat types, attack vectors, defensive controls, and practical security techniques used to protect systems and networks.  
   **Skills**: Cybersecurity Fundamentals, Network Security, Threat Analysis, Security Controls
 
+---
 
 ### 📘 NPTEL
 - **Programming in Java** - 🏅 [View Certificate](https://archive.nptel.ac.in/content/noc/NOC24/SEM1/Ecertificates/106/noc24-cs43/Course/NPTEL24CS43S105410032930600350.pdf)
@@ -234,6 +239,10 @@ I’m passionate about **cyber defense**, **threat detection**, **SOC operations
 
 ## 💼 Experience
 
+### 🛡️ Cyber Security Analyst Trainee – JICS - (Aug 2025 – Present)  
+Structured SOC-focused training with guided hands-on experience in security monitoring, alert triage, and incident investigation workflows.  
+**Tools & Skills**: SIEM (Splunk ES, Chronicle), Threat Intelligence, IOC Analysis, MITRE ATT&CK, Phishing Analysis, Log Analysis, Jira, ServiceNow
+
 ### ☕ Full Stack Java Development Intern - 🏅 [View Certificate »](https://raw.githubusercontent.com/NANDAN-S-GMIT/images/main/JAVAFULLSTACK.png)  
 Complete internship experience in building Java-based full stack apps with frontend/backend integration.  
 **Tech Stack**: Java, Spring Boot, React JS, MySQL, REST APIs
@@ -280,10 +289,9 @@ Managed customer inquiries, account setups, billing issues, and service changes 
 
 **Skills & Technologies:** Web Security, OWASP Top 10, Vulnerability Assessment, HTTP/HTTPS, Python, JavaScript, Security Testing
 
+---
 
-
-
-- **📄 Resume Analyzer & Skill Recommender** – **Python, HTML, CSS, JavaScript** *(In Progress)*  
+- **📄 Resume Analyzer & Skill Recommender** – **Python, HTML, CSS, JavaScript**  
   An intelligent tool that extracts skills from uploaded resumes and suggests additional in-demand skills based on role-specific analysis.
 
 - **🎓 NextGen LearnHub** – **React, Spring Boot, MySQL**  
