@@ -129,6 +129,7 @@ I’m passionate about **cyber defense**, **threat detection**, **SOC operations
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
+  ## 🛠️ Cyber Tools and Technologies 
   <!-- Cyber Security / SOC -->
   <img src="https://img.shields.io/badge/Splunk%20ES-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
   <img src="https://img.shields.io/badge/IBM%20QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
@@ -146,6 +147,7 @@ I’m passionate about **cyber defense**, **threat detection**, **SOC operations
 
 </p>
 
+---
 
 ## 🏅 Certifications
 
