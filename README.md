@@ -2,14 +2,14 @@
 
 ## 👨‍💻 About Me  
 
-I’m a **Computer Science Engineering graduate (2025)** with a strong foundation in **Full Stack Development** and a specialization in **Cyber Security / SOC Analysis**.
+I’m a **Computer Science Engineering graduate (2025)** with a strong foundation in **Full Stack Development** and a specialization in **Cyber Security / SOC Analyst**.
 
 SOC Analyst with **6 months of hands-on training in Security Operations Center (SOC)**, specializing in **SIEM monitoring, alert triage, and incident investigation**.
 
 🛡️ **Fortinet Certified Associate in Cybersecurity (NSE 3)**  
 🔍 Skilled in **Threat Detection, IOC Analysis, MITRE ATT&CK Mapping**  
 
-💡 Built a **Unified Threat Intelligence Dashboard** improving investigation efficiency by **40–70%**
+💡 Recently Built a **Unified Threat Intelligence Dashboard** improving investigation efficiency by **40–70%**
 
 ---
 
