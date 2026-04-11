@@ -1,14 +1,33 @@
-<!-- Profile Header -->
 # 👋 Hi, I'm Nandan S!
 
-## 👨‍💻 About Me.  
-I’m a **Computer Science Engineering graduate (2025)** with a strong foundation in **Full Stack Web Development** and a growing specialization as a **Cyber Security / SOC Analyst**.
+## 👨‍💻 About Me  
 
-Since **August 2025**, I’ve been undergoing structured **Cyber Security Analyst (SOC L1)** training, gaining hands-on experience with SIEM monitoring, alert triage, threat intelligence, and incident investigation workflows. I enjoy building scalable applications and securing them using real-world security practices, SOC methodologies, and threat frameworks.
+I’m a **Computer Science Engineering graduate (2025)** with a strong foundation in **Full Stack Development** and a specialization in **Cyber Security / SOC Analysis**.
 
-I’m passionate about **cyber defense**, **threat detection**, **SOC operations**, and **building security-focused tools** that solve practical problems.
+SOC Analyst with **6 months of hands-on training in Security Operations Center (SOC)**, specializing in **SIEM monitoring, alert triage, and incident investigation**.
+
+🛡️ **Fortinet Certified Associate in Cybersecurity (NSE 3)**  
+🔍 Skilled in **Threat Detection, IOC Analysis, MITRE ATT&CK Mapping**  
+
+💡 Built a **Unified Threat Intelligence Dashboard** improving investigation efficiency by **40–70%**
 
 ---
+
+## 📬 Connect With Me  
+
+<p align="center">
+<a href="mailto:nandan.siddappa@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nandan-s-/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/NANDAN-S-GMIT/">
+<img src="https://img.shields.io/github/followers/NANDAN-S-GMIT?style=for-the-badge"/>
+</a>
+</p>
 
 <!-- Profile Views & Connect -->
 <p align="center">
@@ -23,148 +42,252 @@ I’m passionate about **cyber defense**, **threat detection**, **SOC operations
 
 ---
 
-## 🧑‍💻 About Me
+# 🛡️ Cyber Security Skills
 
-- 🎓 **B.E. in Computer Science Engineering (2025)**
-- 🛡️ **Cyber Security Analyst Trainee (SOC L1)** — *Aug 2025 – Present*
-- 🔭 Gaining hands-on skills in **Splunk, Threat Detection, MITRE ATT&CK, and Network Security**  
-- 💻 **Full Stack Developer | Java | React | Django**
-- 🔍 Focused on **SIEM, Threat Intelligence, MITRE ATT&CK**
-- 🌱 Learning **Advanced SOC Operations, Cloud Security & Automation**
-- 💬 Ask me about **Java, React, Python, Full Stack Development, Cyber Security, SOC Tools**  
-- 📫 Reach me at: **benz.nandan.s@gmail.com**
-- 👯 Open to collaborating on **Full Stack, Cyber Security, AI, and Open Source** projects 
- 
----
-
-
-## 🛠️ Skills & Technologies 
-
-## 🛡️ Cyber Security & SOC Skills
-
-- SIEM Monitoring & Alert Triage (L1)
-- Security Event & Log Analysis
-- False Positive vs True Positive Identification
-- IOC Validation & Threat Intelligence Enrichment
-- Phishing Email Analysis
-- MITRE ATT&CK Mapping & Cyber Kill Chain
-- Incident Documentation & Escalation (SOC SOPs)
-- Basic Network Traffic & Endpoint Analysis
+- SIEM Monitoring & Alert Triage  
+- Security Event & Log Analysis  
+- IOC Validation & Threat Intelligence Enrichment  
+- Phishing & Email Threat Analysis  
+- Incident Response Lifecycle (Detection → Analysis → Escalation)  
+- MITRE ATT&CK Mapping & Cyber Kill Chain  
+- Endpoint & Network Security Analysis  
 
 ---
 
-## 🔐 Security Tools & Technologies
+# 🔐 Security Tools (Clickable)
 
-- **SIEM:** Splunk ES, Google Chronicle (SecOps)
-- **EDR:** CrowdStrike Falcon
-- **Email Security:** Microsoft 365 Defender
-- **Threat Intelligence & OSINT:** VirusTotal, AbuseIPDB, Cisco Talos, AlienVault OTX, CyberChef
-- **URL Analysis:** URLScan.io
-- **IAM:** Microsoft Entra ID (Azure AD)
-- **Ticketing:** Jira, ServiceNow
-- **Network Analysis:** Wireshark
-- **Frameworks:** MITRE ATT&CK, Cyber Kill Chain
+<table align="center">
+<tr>
+<td align="center">
+
+<a href="https://www.splunk.com">
+<img src="https://img.shields.io/badge/Splunk-000000?logo=splunk&style=for-the-badge"/>
+</a><br>
+
+<a href="https://www.ibm.com/qradar">
+<img src="https://img.shields.io/badge/IBM%20QRadar-052FAD?logo=ibm&style=for-the-badge"/>
+</a><br>
+
+<a href="https://learn.microsoft.com/en-us/azure/sentinel/">
+<img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?logo=microsoft&style=for-the-badge"/>
+</a><br>
+
+<a href="https://cloud.google.com/chronicle">
+<img src="https://img.shields.io/badge/Google%20Chronicle-4285F4?logo=googlecloud&style=for-the-badge"/>
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://www.crowdstrike.com">
+<img src="https://img.shields.io/badge/CrowdStrike-FF0000?logo=crowdstrike&style=for-the-badge"/>
+</a><br>
+
+<a href="https://www.sentinelone.com">
+<img src="https://img.shields.io/badge/SentinelOne-5C2D91?style=for-the-badge"/>
+</a><br>
+
+<a href="https://www.microsoft.com/en-us/security/business/microsoft-defender">
+<img src="https://img.shields.io/badge/Microsoft%20Defender-0078D4?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://www.virustotal.com">
+<img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge"/>
+</a><br>
+
+<a href="https://www.abuseipdb.com">
+<img src="https://img.shields.io/badge/AbuseIPDB-black?style=for-the-badge"/>
+</a><br>
+
+<a href="https://otx.alienvault.com">
+<img src="https://img.shields.io/badge/AlienVault%20OTX-2C2C2C?style=for-the-badge"/>
+</a><br>
+
+<a href="https://talosintelligence.com">
+<img src="https://img.shields.io/badge/Cisco%20Talos-1BA0D7?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://www.wireshark.org">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&style=for-the-badge"/>
+</a><br>
+
+<a href="https://urlscan.io">
+<img src="https://img.shields.io/badge/URLScan-FF6F00?style=for-the-badge"/>
+</a><br>
+
+<a href="https://learn.microsoft.com/en-us/entra/">
+<img src="https://img.shields.io/badge/Microsoft%20Entra-0078D4?style=for-the-badge"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## MY Skills
-
-**Languages:**  
-`Java` `Python` `JavaScript` `PHP`  
-
-**Web & Front-End Development::**  
-`React.js` `HTML5` `CSS3` `Bootstrap` `Wix` `WordPress`  
-
-**Back-End:**  
-`Node.js` `Django` `MySQL`  
-
-**Database:**  
-`MySQL` `MangoDB` 
-
-**Developer Tools & Platforms:**
-`Git` `GitHub` `Postman` `VS Code` `IntelliJ IDEA`
-
-**Tools & Frameworks:**  
-`Spring Boot (learning)` `Tkinter` `OpenCV`  `Adobe Photoshop` `TensorFlow`
-
-**Other Skills:**
-`Canva` `MS Office` `Google Docs` `Netlify` `Vercel` `GitHub Pages`
-
----
-
-## 🛠️ Tech Stack
+# 🧠 Security Frameworks
 
 <p align="center">
-
-  <!-- Development -->
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-  <!-- Databases & Dev Tools -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p?
-
----
-
-## 🛠️ Cyber Tools and Technologies 
-
-<p align="center">
-  <!-- Cyber Security / SOC -->
-  <img src="https://img.shields.io/badge/Splunk%20ES-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IBM%20QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Chronicle-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SentinelOne-5C2D91?style=for-the-badge&logo=sentinelone&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CrowdStrike-FF0000?style=for-the-badge&logo=crowdstrike&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20365%20Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AbuseIPDB-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cisco%20Talos-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/URLScan.io-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AlienVault%20OTX-2C2C2C?style=for-the-badge"/>
-
+<a href="https://attack.mitre.org/"><img src="https://img.shields.io/badge/MITRE%20ATT%26CK-red?style=for-the-badge"/></a>
+<a href="https://owasp.org/www-project-top-ten/"><img src="https://img.shields.io/badge/OWASP%20Top%2010-orange?style=for-the-badge"/></a>
+<a href="https://www.nist.gov/cyberframework"><img src="https://img.shields.io/badge/NIST-CSF-green?style=for-the-badge"/></a>
 </p>
 
 ---
 
+# 💻 Full Stack Development Skills
+
+<table align="center">
+<tr>
+<td align="center"><b>Languages</b></td>
+<td align="center"><b>Frontend</b></td>
+<td align="center"><b>Backend</b></td>
+<td align="center"><b>Database</b></td>
+</tr>
+
+<tr>
+<td align="center">
+<a href="https://docs.oracle.com/en/java/">Java</a><br>
+<a href="https://docs.python.org/3/">Python</a><br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a><br>
+<a href="https://www.php.net/docs.php">PHP</a>
+</td>
+
+<td align="center">
+<a href="https://react.dev/">React.js</a><br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML5</a><br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS3</a><br>
+<a href="https://getbootstrap.com/">Bootstrap</a>
+</td>
+
+<td align="center">
+<a href="https://nodejs.org/en/docs">Node.js</a><br>
+<a href="https://docs.djangoproject.com/">Django</a>
+</td>
+
+<td align="center">
+<a href="https://dev.mysql.com/doc/">MySQL</a><br>
+<a href="https://www.mongodb.com/docs/">MongoDB</a>
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,django,mysql,mongodb,git,github"/>
+</a>
+</p>
+
+---
+
+# 🚀 What Makes Me Different
+
+✔ SOC + Full Stack Combination  
+✔ Real-world SOC Practice  
+✔ Threat Intelligence + SIEM Integration  
+✔ Automation mindset (Dashboard Project)  
+
+---
 ## 🏅 Certifications
 
 ## 🏅 Cyber Security Certifications
 
-### 🛡️ Splunk
-- **SOC Essentials: Investigating with Splunk ES 8.x** – 🏅 [View Certificate](https://drive.google.com/file/d/14meqGP-wBIOKA1u90jfNPG3unSACx5vY/view)  
-  Hands-on SOC investigation training using Splunk Enterprise Security, covering alert triage, notable event analysis, dashboards, correlation searches, and escalation workflows.  
-  **Skills**: Splunk ES, SIEM Monitoring, Alert Triage, Log Analysis, Incident Escalation
+---
 
-### 🛡️ AttackIQ Academy
-- **Foundations of Operationalizing MITRE ATT&CK v13** – 🏅 [View Certificate](https://www.credly.com/badges/2e164a4f-956e-437f-bbd5-4f463760b456)  
-  Focused on applying the MITRE ATT&CK framework in real-world SOC environments, including mapping adversary tactics and techniques, improving detection visibility, and supporting structured incident investigations.  
-  **Skills**: MITRE ATT&CK, Adversary TTP Mapping, Threat Detection, SOC Analysis, Incident Investigation
+### 🛡️ SOC Radar
+- **Threat Intelligence Fundamentals for SOC Analysts (CTI 101)** – 🏅 [View Certificate](https://credsverse.com/credentials/c50a7646-4cfb-4fde-9a3a-2f2c7e950859?preview=1)  
+  *(Issued: Apr 2026)*  
+  Covers threat intelligence lifecycle, IOC analysis, and SOC-based decision making using MITRE ATT&CK and Cyber Kill Chain.  
+  **Skills**: Threat Intelligence, IOC Analysis, SOC Workflows, OSINT  
+
+---
+
+### 🛡️ Fortinet
+
+#### 🔰 NSE 3 (Advanced Level)
+- **Fortinet Certified Associate in Cybersecurity (NSE 3)** – 🏅 [View Certificate](https://www.credly.com/badges/9f9e5adc-a441-4f0c-92e7-5e57cc7b6e74/public_url)  
+- **Fortinet FortiGate 7.6 Operator (NSE 3)** – 🏅 [View Certificate](https://www.credly.com/badges/f6bc4bbe-7eb3-4d07-95a9-45aed76d37c0/public_url)  
+*(Issued: Mar 2026)*  
+Advanced cybersecurity concepts including firewall configuration, network security controls, and threat protection.  
+**Skills**: Firewall (FortiGate), Network Security, Threat Detection  
+
+---
+
+#### 🔰 NSE 2 (Intermediate Level)
+- **Technical Introduction to Cybersecurity 3.0 (NSE 2)** – 🏅 [View Certificate](https://www.credly.com/badges/9bb5a316-a3c0-460e-bbdc-d36d43dffa3b/public_url)  
+*(Issued: Mar 2026)*  
+Covers authentication, cryptography, endpoint security, and Zero Trust concepts.  
+**Skills**: Authentication, Cryptography, Endpoint Security, Zero Trust  
+
+---
+
+#### 🔰 NSE 1 (Fundamentals Level)
+- **Fortinet Certified Fundamentals in Cybersecurity** – 🏅 [View Certificate](https://www.credly.com/badges/0e33a849-76c1-4967-b1c3-e206b6dff19d/public_url)  
+- **Introduction to the Threat Landscape 3.0** – 🏅 [View Certificate](https://www.credly.com/badges/27a06302-c6f5-4de9-82b2-c84838ebaade/public_url)  
+- **Getting Started in Cybersecurity 3.0** – 🏅 [View Certificate](https://www.credly.com/badges/cfbc361e-921d-4bfd-90b6-9154b33035f1/public_url)  
+*(Issued: Jan 2026)*  
+Built strong foundation in cybersecurity concepts, threat landscape, and security principles.  
+**Skills**: Cybersecurity Basics, Threat Landscape, Security Fundamentals  
+
+---
+
+### 🛡️ thexssrat
+- **Core Networking Concepts for Ethical Hackers** – 🏅 [View Certificate](https://thexssrat.podia.com/certificates/cert_JGzFdmOJ)  
+*(Issued: Mar 2026)*  
+Covers TCP/IP, networking fundamentals, and security concepts relevant for ethical hacking.  
+**Skills**: Networking, TCP/IP, Security Fundamentals  
+
+---
 
 ### 🛡️ arcX
-- **Cyber Threat Intelligence 101** – 🏅 [View Certificate](https://arcx.io/verify-certificate?id=f44132167c2d875b7241d8c880f26e2572a63848)  
-  Introduced core threat intelligence concepts including IOC lifecycle, intelligence sources, threat actor analysis, and applying CTI to SOC decision-making.  
-  **Skills**: Threat Intelligence, IOC Analysis, OSINT, Threat Actor Profiling, SOC Workflows
+- **Cyber Threat Intelligence 101** – 🏅 [View Certificate](https://arcx.io/verify-certificate?id=f44132167c2d875b7241d8c880f26e2572a63848&k=a178be2828024b07b4ba9c7285a5e8b1)  
+*(Issued: Dec 2025)*  
+Introduces threat intelligence lifecycle, threat actors, and SOC-based analysis.  
+**Skills**: Threat Intelligence, Threat Analysis, SOC Workflows  
+
+---
+
+### 🛡️ Splunk
+- **SOC Essentials: Investigating with Splunk ES 8.x** – 🏅 [View Certificate](https://raw.githubusercontent.com/NANDAN-S-GMIT/images/main/Cy_SOC_Essentials_Splunk_ES8.jpeg)  
+*(Issued: Nov 2025)*  
+Hands-on SOC investigation using Splunk ES including alert triage, log analysis, and escalation workflows.  
+**Skills**: Splunk ES, SIEM Monitoring, Alert Triage, Log Analysis  
+
+---
+
+### 🛡️ AttackIQ Academy
+- **Foundations of Operationalizing MITRE ATT&CK v13** – 🏅 [View Certificate](https://www.credly.com/badges/2e164a4f-956e-437f-bbd5-4f463760b456/public_url)  
+*(Issued: Nov 2025)*  
+Focuses on mapping adversary tactics and techniques using MITRE ATT&CK for threat detection.  
+**Skills**: MITRE ATT&CK, TTP Mapping, Threat Detection  
+
+---
 
 ### 🛡️ Basel Institute on Governance
-- **Open-source Intelligence (OSINT)** – 🏅 [View Certificate](https://learn.baselgovernance.org/mod/customcert/verify_certificate.php?code=OchgThXjDC)  
-  Practical exposure to OSINT techniques for collecting, validating, and analyzing publicly available information to support cyber investigations and threat analysis.  
-  **Skills**: OSINT, Information Gathering, Digital Investigation, Threat Research, SOC Enrichment
+- **Open-source Intelligence (OSINT)** – 🏅 [View Certificate](https://learn.baselgovernance.org/mod/customcert/verify_certificate.php?code=OchgThXjDC&qrcode=1)  
+*(Issued: Nov 2025)*  
+Covers OSINT techniques for collecting and analyzing publicly available information.  
+**Skills**: OSINT, Threat Research, Digital Investigation  
+
+---
 
 ### 🛡️ Udemy
 - **Mastering Cybersecurity: Essential Knowledge and Techniques** – 🏅 [View Certificate](https://www.udemy.com/certificate/UC-76521cd7-99bf-403c-a532-5ae17ac74d45/)  
-  Covered cybersecurity fundamentals such as threat types, attack vectors, defensive controls, and practical security techniques used to protect systems and networks.  
-  **Skills**: Cybersecurity Fundamentals, Network Security, Threat Analysis, Security Controls
+Covers cybersecurity fundamentals including threats, attack vectors, and defensive controls.  
+**Skills**: Cybersecurity Fundamentals, Network Security, Threat Analysis  
 
 ---
 
