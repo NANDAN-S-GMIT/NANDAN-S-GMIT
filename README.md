@@ -13,6 +13,12 @@ SOC Analyst with **6 months of hands-on training in Security Operations Center (
 
 ---
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=SOC+Analyst+%7C+Cybersecurity+Enthusiast;Threat+Intelligence+%7C+SIEM+%7C+Blue+Team;Full+Stack+Developer+%7C+Problem+Solver" />
+</p>
+
+---
+
 ## 📬 Connect With Me  
 
 <!-- Profile Views & Connect -->
@@ -49,19 +55,19 @@ SOC Analyst with **6 months of hands-on training in Security Operations Center (
 <td align="center">
 
 <a href="https://www.splunk.com">
-<img src="https://img.shields.io/badge/Splunk-000000?logo=splunk&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white&style=for-the-badge"/>
 </a><br>
 
 <a href="https://www.ibm.com/qradar">
-<img src="https://img.shields.io/badge/IBM%20QRadar-052FAD?logo=ibm&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IBM%20QRadar-052FAD?logo=ibm&logoColor=white&style=for-the-badge"/>
 </a><br>
 
 <a href="https://learn.microsoft.com/en-us/azure/sentinel/">
-<img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?logo=microsoft&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?logo=microsoft&logoColor=white&style=for-the-badge"/>
 </a><br>
 
 <a href="https://cloud.google.com/chronicle">
-<img src="https://img.shields.io/badge/Google%20Chronicle-4285F4?logo=googlecloud&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google%20Chronicle-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge"/>
 </a>
 
 </td>
@@ -69,15 +75,15 @@ SOC Analyst with **6 months of hands-on training in Security Operations Center (
 <td align="center">
 
 <a href="https://www.crowdstrike.com">
-<img src="https://img.shields.io/badge/CrowdStrike-FF0000?logo=crowdstrike&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CrowdStrike-FF0000?logo=crowdstrike&logoColor=white&style=for-the-badge"/>
 </a><br>
 
 <a href="https://www.sentinelone.com">
-<img src="https://img.shields.io/badge/SentinelOne-5C2D91?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SentinelOne-5C2D91?logo=sentinelone&logoColor=white&style=for-the-badge"/>
 </a><br>
 
 <a href="https://www.microsoft.com/en-us/security/business/microsoft-defender">
-<img src="https://img.shields.io/badge/Microsoft%20Defender-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microsoft%20Defender-0078D4?logo=microsoft&logoColor=white&style=for-the-badge"/>
 </a>
 
 </td>
@@ -85,19 +91,19 @@ SOC Analyst with **6 months of hands-on training in Security Operations Center (
 <td align="center">
 
 <a href="https://www.virustotal.com">
-<img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VirusTotal-394EFF?logo=googlechrome&logoColor=white&style=for-the-badge"/>
 </a><br>
 
 <a href="https://www.abuseipdb.com">
-<img src="https://img.shields.io/badge/AbuseIPDB-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AbuseIPDB-000000?logo=databricks&logoColor=white&style=for-the-badge"/>
 </a><br>
 
 <a href="https://otx.alienvault.com">
-<img src="https://img.shields.io/badge/AlienVault%20OTX-2C2C2C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AlienVault%20OTX-2C2C2C?logo=alienware&logoColor=white&style=for-the-badge"/>
 </a><br>
 
 <a href="https://talosintelligence.com">
-<img src="https://img.shields.io/badge/Cisco%20Talos-1BA0D7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cisco%20Talos-1BA0D7?logo=cisco&logoColor=white&style=for-the-badge"/>
 </a>
 
 </td>
@@ -105,15 +111,15 @@ SOC Analyst with **6 months of hands-on training in Security Operations Center (
 <td align="center">
 
 <a href="https://www.wireshark.org">
-<img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge"/>
 </a><br>
 
 <a href="https://urlscan.io">
-<img src="https://img.shields.io/badge/URLScan-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/URLScan-FF6F00?logo=googlechrome&logoColor=white&style=for-the-badge"/>
 </a><br>
 
 <a href="https://learn.microsoft.com/en-us/entra/">
-<img src="https://img.shields.io/badge/Microsoft%20Entra-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microsoft%20Entra-0078D4?logo=microsoft&logoColor=white&style=for-the-badge"/>
 </a>
 
 </td>
@@ -144,27 +150,67 @@ SOC Analyst with **6 months of hands-on training in Security Operations Center (
 
 <tr>
 <td align="center">
-<a href="https://docs.oracle.com/en/java/">Java</a><br>
-<a href="https://docs.python.org/3/">Python</a><br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a><br>
-<a href="https://www.php.net/docs.php">PHP</a>
+
+<a href="https://docs.oracle.com/en/java/">
+<img src="https://skillicons.dev/icons?i=java" width="40"/><br>
+</a><br>
+
+<a href="https://docs.python.org/3/">
+<img src="https://skillicons.dev/icons?i=python" width="40"/><br>
+</a><br>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=js" width="40"/><br>
+</a><br>
+
+<a href="https://www.php.net/docs.php">
+<img src="https://skillicons.dev/icons?i=php" width="40"/><br>
+</a>
+
 </td>
 
 <td align="center">
-<a href="https://react.dev/">React.js</a><br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML5</a><br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS3</a><br>
-<a href="https://getbootstrap.com/">Bootstrap</a>
+
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" width="40"/><br>
+</a><br>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" width="40"/><br>
+</a><br>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" width="40"/><br>
+</a><br>
+
+<a href="https://getbootstrap.com/">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="40"/><br>
+</a>
+
 </td>
 
 <td align="center">
-<a href="https://nodejs.org/en/docs">Node.js</a><br>
-<a href="https://docs.djangoproject.com/">Django</a>
+
+<a href="https://nodejs.org/en/docs">
+<img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br>
+</a><br>
+
+<a href="https://docs.djangoproject.com/">
+<img src="https://skillicons.dev/icons?i=django" width="40"/><br>
+</a>
+
 </td>
 
 <td align="center">
-<a href="https://dev.mysql.com/doc/">MySQL</a><br>
-<a href="https://www.mongodb.com/docs/">MongoDB</a>
+
+<a href="https://dev.mysql.com/doc/">
+<img src="https://skillicons.dev/icons?i=mysql" width="40"/><br>
+</a><br>
+
+<a href="https://www.mongodb.com/docs/">
+<img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br>
+</a>
+
 </td>
 </tr>
 </table>
@@ -174,9 +220,47 @@ SOC Analyst with **6 months of hands-on training in Security Operations Center (
 # 🛠️ Tech Stack
 
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,django,mysql,mongodb,git,github"/>
+
+<a href="https://docs.oracle.com/en/java/">
+<img src="https://skillicons.dev/icons?i=java" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://docs.python.org/3/">
+<img src="https://skillicons.dev/icons?i=python" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=js" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://nodejs.org/en/docs">
+<img src="https://skillicons.dev/icons?i=nodejs" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://docs.djangoproject.com/">
+<img src="https://skillicons.dev/icons?i=django" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://dev.mysql.com/doc/">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.mongodb.com/docs/">
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://git-scm.com/doc">
+<img src="https://skillicons.dev/icons?i=git" />
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://docs.github.com/">
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
+
 </p>
 
 ---
