@@ -15,26 +15,14 @@ SOC Analyst with **6 months of hands-on training in Security Operations Center (
 
 ## 📬 Connect With Me  
 
-<p align="center">
-<a href="mailto:nandan.siddappa@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/nandan-s-/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/NANDAN-S-GMIT/">
-<img src="https://img.shields.io/github/followers/NANDAN-S-GMIT?style=for-the-badge"/>
-</a>
-</p>
-
 <!-- Profile Views & Connect -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NandanS&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="mailto:benz.nandan.s@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/nandan-s-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/NANDAN-S-GMIT/"><img src="https://img.shields.io/github/followers/NandanS?label=Follow&style=social" alt="GitHub"/></a>
+ <a href="https://github.com/NANDAN-S-GMIT/">
+<img src="https://img.shields.io/github/followers/NANDAN-S-GMIT?style=for-the-badge"/>
+</a>
   <a href="https://nandan-s.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
