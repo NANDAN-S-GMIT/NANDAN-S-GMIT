@@ -23,15 +23,15 @@ SOC Analyst with **6 months of hands-on training in Security Operations Center (
 
 <!-- Profile Views & Connect -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NandanS&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="mailto:benz.nandan.s@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/nandan-s-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<img src="https://komarev.com/ghpvc/?username=NandanS&label=👁️%20Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <a href="mailto:benz.nandan.s@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/nandan-s-/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
  <a href="https://github.com/NANDAN-S-GMIT/">
-<img src="https://img.shields.io/github/followers/NANDAN-S-GMIT?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
-  <a href="https://nandan-s.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
+<a href="https://nandan-s.netlify.app/">
+<img src="https://img.icons8.com/?size=100&id=9918&format=png&color=FFFFFF" width="40"/>
+</a>
 </p>
 
 ---
@@ -550,21 +550,40 @@ Click on individual repositories for detailed documentation, setup guides, and l
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NANDAN-S-GMIT&show_icons=true&theme=radical" alt="Nandan's GitHub stats"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NANDAN-S-GMIT&theme=radical" alt="GitHub Streak"/>
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANDAN-S-GMIT&layout=compact&theme=radical" alt="Top Languages"/>
+<!-- Streak Stats (Fixed alternative) -->
+<img src="https://streak-stats.demolab.com?user=NANDAN-S-GMIT&theme=radical" height="165"/>
+
 </p>
 
 ---
 
-## 📫 Connect with me
 
-<p align="left">
-  <a href="mailto:benz.nandan.s@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/nandansiddappa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/NANDAN-S-GMIT"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<!-- Profile Views -->
+
+  
+## 📬 Connect with me
+<!-- Icons Row -->
+<p align="center">
+<a href="mailto:nandan.siddappa@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/nandan-s-/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/NANDAN-S-GMIT/">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://nandan-s.netlify.app/">
+<img src="https://img.icons8.com/?size=100&id=9918&format=png&color=FFFFFF" width="42"/>
+</a>
+
+</p>
+
 </p>
 
 ---
