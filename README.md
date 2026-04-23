@@ -463,7 +463,7 @@ Covers cybersecurity fundamentals including threats, attack vectors, and defensi
 
 ## 💼 Experience
 
-### 🛡️ Cyber Security Analyst Trainee – JICS - (Aug 2025 – Present)  
+### 🛡️ Cyber Security Analyst Trainee – JICS - (Aug 2025 – Feb 2026)  
 Structured SOC-focused training with guided hands-on experience in security monitoring, alert triage, and incident investigation workflows.  
 **Tools & Skills**: SIEM (Splunk ES, Chronicle), Threat Intelligence, IOC Analysis, MITRE ATT&CK, Phishing Analysis, Log Analysis, Jira, ServiceNow
 
