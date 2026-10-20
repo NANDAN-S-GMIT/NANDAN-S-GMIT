@@ -280,11 +280,17 @@ SOC Analyst with **6 months of hands-on training in Security Operations Center (
 ---
 
 ### 🛡️ SOC Radar
-- **Threat Intelligence Fundamentals for SOC Analysts (CTI 101)** – 🏅 [View Certificate](https://credsverse.com/credentials/c50a7646-4cfb-4fde-9a3a-2f2c7e950859?preview=1)  
-  *(Issued: Apr 2026)*  
-  Covers threat intelligence lifecycle, IOC analysis, and SOC-based decision making using MITRE ATT&CK and Cyber Kill Chain.  
-  **Skills**: Threat Intelligence, IOC Analysis, SOC Workflows, OSINT  
 
+- **Mastering GenAI Tools for SOC Analysts** – 🏅 [View Certificate](https://credsverse.com/credentials/d5db74cd-80e2-465a-8af8-d7d372044002?preview=1) | 🎖️ [View Badge](https://credsverse.com/credentials/d5db74cd-80e2-465a-8af8-d7d372044002?preview=2)  
+  *Issued: Apr 2026*  
+  Covers AI, ML, and LLM fundamentals for cybersecurity, prompt engineering for SOC and incident response, Model Context Protocol (MCP), malicious GPTs and deepfakes, OWASP Top 10 for LLMs, MITRE ATLAS, and AI-assisted threat intelligence automation.  
+  **Skills**: Generative AI, Prompt Engineering, SOC Analysis, Incident Response, MCP, MITRE ATLAS, MITRE ATT&CK, Threat Intelligence Automation
+
+- **Threat Intelligence Fundamentals for SOC Analysts (CTI 101)** – 🏅 [View Certificate](https://credsverse.com/credentials/c50a7646-4cfb-4fde-9a3a-2f2c7e950859?preview=1) | 🎖️ [View Badge](https://credsverse.com/credentials/c50a7646-4cfb-4fde-9a3a-2f2c7e950859?preview=2)  
+  *Issued: Apr 2026*  
+  Covers the threat intelligence lifecycle, IOC analysis, and SOC-based decision-making using MITRE ATT&CK and the Cyber Kill Chain.  
+  **Skills**: Threat Intelligence, IOC Analysis, SOC Workflows, OSINT, MITRE ATT&CK, Cyber Kill Chain
+  
 ---
 
 ### 🛡️ Fortinet
