@@ -485,11 +485,6 @@ Hands-on internship covering frontend and backend development, including live de
 Real-world training in Python with a focus on automation, data handling, and web scraping projects.  
 **Skills**: Python, Automation, Web Scraping, Data Handling
 
-### 🧾 SRI SAI GAS LINKS – HP GAS Agency - 🏅 [View Certificate »](https://raw.githubusercontent.com/NANDAN-S-GMIT/images/main/HPGAS.png)  
-**Role**: Customer Support Representative  
-Managed customer inquiries, account setups, billing issues, and service changes with a focus on communication and client satisfaction.  
-**Skills**: Customer Service, Account Management, Problem Solving, Communication
-
 ---
 
 ## 🚀 Projects Showcase
